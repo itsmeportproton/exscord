@@ -66,5 +66,5 @@ sync-all
 
 sync-package wine-9.3-vanilla-wow64
 
-ln -sf $PREFIX/glibc/opt/scripts/mobox $PREFIX/bin/mobox
-echo "To start - type \"mobox\""
+ln -sf $PREFIX/glibc/opt/scripts/exscord $PREFIX/bin/exscord
+echo "To start - type \"exscord\""
