@@ -17,8 +17,8 @@ echo "                                                                     ";
 
 echo "Installing termux-am"
 pkg install termux-am -y &>/dev/null
-pkg install wget -y &>/dev/null
-termux-setup-storage & sleep 4 &>/dev/null ; clear
+pkg install wget; clear
+termux-setup-storage & sleep 4 &>/dev/null
 
 while true; do
     if [ -d ~/storage/shared ]; then
