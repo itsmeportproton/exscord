@@ -1,4 +1,4 @@
-# Exscord
+# exscord
 ## about
 mobox fork oriented on snapdragon
 ## changes
