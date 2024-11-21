@@ -10,7 +10,4 @@ olegos2 - developer of original mobox
 
 portproton - developer of exscord
 
-thindoes - emotional support
-
-install :
- ``curl -s -o ~/x https://raw.githubusercontent.com/amdpoweruwu/exscord/main/install`` && . ~/x (release builds)
+thindoes - emotional support, helped with root-filesystem
