@@ -18,3 +18,5 @@ thindoes - emotional support, helped with root-filesystem
 curl -s -o ~/x https://raw.githubusercontent.com/amdpoweruwu/exscord/main/install && . ~/x
 
 ```
+
+[input-bridge (https://raw.githubusercontent.com/olegos2/mobox/main/components/inputbridge.apk)]
