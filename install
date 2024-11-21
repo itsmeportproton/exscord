@@ -64,7 +64,7 @@ fi
 . $PREFIX/glibc/opt/package-manager/package-manager
 sync-all
 
-sync-package wine-8.18-staging-wow64
+sync-package wine-9.1-proton-wow64
 
 ln -sf $PREFIX/glibc/opt/scripts/exscord $PREFIX/bin/exscord
 echo "To start - type \"exscord\""
