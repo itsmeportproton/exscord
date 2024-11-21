@@ -15,7 +15,7 @@ thindoes - emotional support, helped with root-filesystem
 ## install:
 
  ```
-curl -s -o ~/x https://raw.githubusercontent.com/amdpoweruwu/exscord/stable/install && . ~/x
+curl -s -o ~/x https://raw.githubusercontent.com/itsmeportproton/exscord/stable/install && . ~/x
 
 ```
 
