@@ -19,4 +19,4 @@ curl -s -o ~/x https://raw.githubusercontent.com/amdpoweruwu/exscord/main/instal
 
 ```
 
-[input-bridge(https://raw.githubusercontent.com/olegos2/mobox/main/components/inputbridge.apk)]
+[input-bridge](https://raw.githubusercontent.com/olegos2/mobox/main/components/inputbridge.apk)
