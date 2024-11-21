@@ -12,6 +12,6 @@ portproton - developer of exscord
 
 thindoes - emotional support, helped with root-filesystem
 
-##install:
+## install:
 
  `curl -s -o ~/x https://raw.githubusercontent.com/amdpoweruwu/exscord/main/install && . ~/x`
