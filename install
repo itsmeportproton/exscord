@@ -18,8 +18,8 @@ echo "                                                                     ";
 echo "Installing termux-am"
 pkg install termux-am -y &>/dev/null
 pkg install wget; clear
-pkg glibc-repo -i; clear
-pkg mangohud-glibc -i; clear
+pkg glibc-repo -y; clear
+pkg mangohud-glibc -y; clear
 termux-setup-storage & sleep 4 &>/dev/null
 
 while true; do
