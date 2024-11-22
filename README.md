@@ -1,6 +1,6 @@
 # exscord
 ## about
-mobox fork oriented on snapdragon
+mobox fork oriented on snapdragon (removed wined3d && virgl, mali devices now fully unsupported)
 ## changes
 - updated dxvk
 - new turnip's
