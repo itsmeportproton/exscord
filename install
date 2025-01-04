@@ -17,8 +17,9 @@ echo "                                                                     ";
 
 echo "Installing termux-am"
 pkg install termux-am -y &>/dev/null
-pkg install wget; clear
+yes | pkg install wget; clear
 yes | pkg install glibc-repo; clear
+yes | pkg install mangohud-glibc; clear
 termux-setup-storage & sleep 4 &>/dev/null
 
 while true; do
