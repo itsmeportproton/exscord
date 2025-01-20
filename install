@@ -11,15 +11,13 @@ echo "   /'    )  \  /   /'    )--/'    )--/'    )--)'    )--/'    /      ";
 echo " /(___,/'    \'   '---,   /'       /'    /' /'       /'    /        ";
 echo "(__________/' \_(___,/   (___,/   (___,/' /'        (___,/(__        ";
 echo "                                                                     ";
-echo "                                                                     ";
+echo " by itsmeportproton! // mobox made by: Huggo2 && olegos2             ";
 echo "                                                                     ";
 
 
 echo "Installing termux-am"
 pkg install termux-am -y &>/dev/null
 yes | pkg install wget; clear
-yes | pkg install glibc-repo; clear
-yes | pkg install mangohud-glibc; clear
 termux-setup-storage & sleep 4 &>/dev/null
 
 while true; do
